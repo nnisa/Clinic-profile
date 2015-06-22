@@ -1,0 +1,75 @@
+#clinic-banner > img {
+	width: 100%;	
+}
+
+div#clinic-banner {
+  height: 500px;
+  overflow: hidden;
+}
+
+div#clinic-profile-photo > img {
+	border-radius: 50%;
+	vertical-align: center;
+	margin-top: -80px;
+  	margin-left: 60px;
+
+}		
+
+div#dentist > img {
+  vertical-align: center;
+  position: relative;
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+}
+
+div#photo-border > img {
+  width: 106%;
+  margin-left: -10px;
+  margin-top: -5px;
+}
+
+div#photo-border {
+  position: relative;
+  width: 180px;
+  height: 180px;
+  overflow: hidden;
+  border-radius: 50%;
+
+}
+
+div#days {
+  float: left;
+  margin-right: 40px;
+  }
+
+div#right-container {
+  width: 20%;
+  height: 100%;
+  float: left;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
+
+div#mid-container {
+  width: 48%;
+  height: 100%;
+  float: left;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
+
+div#left-container {
+  width: 20%;
+  height: 100%;
+  float: left;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+}
+
+
+
+
